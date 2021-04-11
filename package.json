@@ -1,0 +1,14 @@
+{
+  "name": "insights-2020-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hmif-itb/insights-2020-content.git",
+  "author": "Muhammad Aditya Hilmy <didithilmy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "dotenv": "^8.2.0",
+    "fuse.js": "^6.4.6",
+    "js-yaml": "^4.0.0"
+  }
+}
